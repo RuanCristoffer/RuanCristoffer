@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 <br>
 
-[![RuanCristoffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanCristoffer)]
+![RuanCristoffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanCristoffer)
 
 <br>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCristoffer"
